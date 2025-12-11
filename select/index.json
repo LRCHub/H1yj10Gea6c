@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Tisa",
+  "base_artist": "宮下遊",
+  "createdAt": "2025-12-11T22:34:50.214346Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kartis Tisa",
+      "artist": "Sivan Shavit",
+      "has_synced": false,
+      "path": "select/01_Kartis_Tisa_Sivan_Shavit.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tisa",
+      "artist": "宮下 遊",
+      "has_synced": false,
+      "path": "select/pl_01_Tisa_宮下_遊.txt"
+    }
+  ]
+}
